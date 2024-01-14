@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    
+    "python.analysis.diagnosticSeverityOverrides":{
+        "python.analysis.disabledLibraries":["*"],
+        "reportWildcardImportFromLibrary":"none",
+        "completeFunctionParens":true,
+        "useLibraryCodeForTypes":false
+    }
+}
