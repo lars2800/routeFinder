@@ -4,7 +4,7 @@ A simple python project to find optimal trading routes for star citizen
 Based on https://sc-trade.tool/home data.
 
 # How to build
-option 1 ) Download and run the .exe in the build folder (Might be flagged by anti-virus)
+option 1 ) Download and run the .exe in the build folder (Might be flagged by anti-virus or not work)
 
 option 2 ) Download repo, run __init__.py
 
